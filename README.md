@@ -8,6 +8,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/edu-tobar-dev/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/edu-tobar-dev/legion-del-mal?cacheSeconds=60)
 
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
