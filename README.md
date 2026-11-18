@@ -47,6 +47,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
+- **El Acertijo** - Planificación y control mental (desde github)
 
 ## Reglas de la Legión
 
